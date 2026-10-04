@@ -6,6 +6,7 @@ Interested in ML, NLP/LLM systems, and turning data into decisions.
 
 ## What I've been building
 
+**[Service_Desk_Copilot](https://github.com/yldsha/Service_Desk_Copilot)** — Service Desk ticket monitoring and categorization system: ticket classification, status-transition analysis and SLA tracking (PostCode Challenge hackathon by Pochtatech × Innopolis University).
 **[codelens](https://github.com/yldsha/codelens)** — RAG-based semantic search engine for codebases, built as Team Lead for a 5-person team (Rostelecom "Top Level" case championship). 
 **[loan-approval-interpretable-ml](https://github.com/yldsha/loan-approval-interpretable-ml)** — Interpretable ML for credit scoring: compared 5 models by ROC-AUC/Precision/Recall, SHAP analysis of key risk factors.
 **[course-project](https://github.com/yldsha/course-project)** — Tic-tac-toe AI bot in C++ with a custom decision-making algorithm and OOP design.
