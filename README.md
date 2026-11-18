@@ -2,8 +2,6 @@
 
 2nd year student @ SPbPU, Institute of Computer Science and Cybersecurity — Data Science & AI specialization.
 
-Interested in ML, NLP/LLM systems, and turning data into decisions.
-
 ## What I've been building
 
 **[Service_Desk_Copilot](https://github.com/yldsha/Service_Desk_Copilot)** — Service Desk ticket monitoring and categorization system: ticket classification, status-transition analysis and SLA tracking (PostCode Challenge hackathon by Pochtatech × Innopolis University).
@@ -11,9 +9,6 @@ Interested in ML, NLP/LLM systems, and turning data into decisions.
 **[loan-approval-interpretable-ml](https://github.com/yldsha/loan-approval-interpretable-ml)** — Interpretable ML for credit scoring: compared 5 models by ROC-AUC/Precision/Recall, SHAP analysis of key risk factors.
 **[course-project](https://github.com/yldsha/course-project)** — Tic-tac-toe AI bot in C++ with a custom decision-making algorithm and OOP design.
 
-## Stack
-
-`Python` `C++` `C` `NumPy` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `sentence-transformers` `SQL` `Git` `Docker`
 
 ## Let's connect
 
